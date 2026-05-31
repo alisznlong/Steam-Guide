@@ -1,4 +1,5 @@
 # CÁC HÌNH THỨC MUA PRIME CS2
+> Hình thức nạp wallet Steam cũng tương tự
 ## 1. Tự nạp qua thẻ Visa/Mastercard
 * Ưu điểm:
 > - Tự thanh toán, giảm bớt đa số rủi ro.
