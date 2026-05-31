@@ -1,5 +1,9 @@
-# TRUST FACTOR
-## Trust factor là gì?
+<div align="center">
+<h1>TRUST FACTOR</h1>
+<img src="https://assets.lis-skins.com/blogfiles/pZnmJiowKwgqMmXhw5hfNFBX9gAktQNMuto3ghS3.png" width="800">
+<h2>Trust factor là gì?</h2>
+</div>
+
 * LƯU Ý:
 > - Các tài khoản mới mua Prime hoặc cũ nhưng ít chơi thì đều dính low trust factor 100%, thường sẽ hết low khi đạt cấp độ ~30 *(chưa rõ cấp độ chính xác)*
 > - Dữ liệu Trust factor không thể trích xuất qua API của game, **không dựa vào Trust rating của các website thứ 3 như CSRep hay FaceitFinder để đánh giá Trust factor**
@@ -9,7 +13,7 @@
 - Với đa phần người chơi CSGO/CS2 lâu năm và chơi game trong sạch, họ sẽ đều được đánh giá **Trust xanh**
 - Cách dễ nhất để kiểm tra là tìm trận chung. Hai người chơi trong lobby bấm tìm trận, nếu một người có Trust factor thấp hơn thì người còn lại có Trust factor cao hơn sẽ hiện cảnh báo
 <p align="center">
-  <img src="https://preview.redd.it/why-is-my-trust-factor-so-low-v0-bf6tuxupebfg1.png?auto=webp&s=7fe4a7ae394b56f754d7333d62cc5094cc2a387d" width="500">
+  <img src="https://preview.redd.it/why-is-my-trust-factor-so-low-v0-bf6tuxupebfg1.png?auto=webp&s=7fe4a7ae394b56f754d7333d62cc5094cc2a387d" width="450">
 </p>
 
 - Néu không ai thấy người còn lại bị hiện low Trust factor thì đồng nghĩa rằng họ cùng mức Trust factor, tuy nhiên nó không khẳng định rằng cả 2 đều đang Trust xanh. Ví dụ, nếu 2 người cùng bị Trust vàng thì sẽ đều không hiện cảnh báo
