@@ -1,4 +1,4 @@
-<div align="center"><h1>MAP TẬP CS2</h1></div>
+<div align="center"><h1><img src="https://static.wikia.nocookie.net/logopedia/images/4/49/Counter-Strike_2_%28Icon%29.png/revision/latest?cb=20230330015359" width="25"> MAP TẬP CS2</h1></div>
 <p align="center">
   <img src="https://cslabez.com/wp-content/uploads/2023/11/CSStats-Training-map-cs2-workshop-map.jpg" width="1000">
 </p>
