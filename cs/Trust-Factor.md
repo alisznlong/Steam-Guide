@@ -8,7 +8,9 @@
 - Trust càng thấp đồng nghĩa với việc tỉ lệ bạn gặp các thành phần phá game, quấy rối, gian lận gia tăng. Tuy vậy, trust xanh **không đồng nghĩa** với việc bạn sẽ gặp người chơi trong sạch 100%.
 - Với đa phần người chơi CSGO/CS2 lâu năm và chơi game trong sạch, họ sẽ đều được đánh giá **Trust xanh**
 - Cách dễ nhất để kiểm tra là tìm trận chung. Hai người chơi trong lobby bấm tìm trận, nếu một người có Trust factor thấp hơn thì người còn lại có Trust factor cao hơn sẽ hiện cảnh báo
-<img src="https://preview.redd.it/why-is-my-trust-factor-so-low-v0-bf6tuxupebfg1.png?auto=webp&s=7fe4a7ae394b56f754d7333d62cc5094cc2a387d" width="400">
+<p align="center">
+  <img src="https://preview.redd.it/why-is-my-trust-factor-so-low-v0-bf6tuxupebfg1.png?auto=webp&s=7fe4a7ae394b56f754d7333d62cc5094cc2a387d" width="500">
+</p>
 
 - Néu không ai thấy người còn lại bị hiện low Trust factor thì đồng nghĩa rằng họ cùng mức Trust factor, tuy nhiên nó không khẳng định rằng cả 2 đều đang Trust xanh. Ví dụ, nếu 2 người cùng bị Trust vàng thì sẽ đều không hiện cảnh báo
 - Tuy nhiên, người chơi A có thể thấy người chơi B **trust đỏ**, nhưng người chơi B lại thấy người chơi C **trust đỏ**, không thể kết luận rằng cả hai người chơi B và C cùng mức trust đỏ giống nhau, mặc dù người chơi A sẽ thấy cả người chơi B và C đều trust đỏ
