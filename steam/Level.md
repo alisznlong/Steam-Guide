@@ -1,4 +1,4 @@
-<div align="center"><h1>CÁC HÌNH THỨC TĂNG LEVEL STEAM</h1></div>
+<div align="center"><h1><h1><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="25"> CÁC HÌNH THỨC TĂNG LEVEL STEAM</h1></div>
 <p align="center">
   <img src="https://storage.ghost.io/c/c5/9e/c59e865f-a391-4bc8-9e66-5b00cec1daf4/content/images/2021/08/fa19327d67d78a0c2841f7650c3ba10f.png" width="500">
 </p>
