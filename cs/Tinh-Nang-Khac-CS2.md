@@ -1,4 +1,7 @@
-# CÁC TÍNH NĂNG KHÁC TRONG CS2
+<div align="center">
+<h1>TÍNH NĂNG KHÁC TRONG CS2</h1>
+</div>
+
 ## 1. Cấp bậc
 <img src="https://cdn.sanity.io/images/ccckgjf9/production/8296cd7d52b7c2e8c85800aac973805f09c2a126-2200x1080.jpg?max-h=1080&max-w=1920&q=50&fit=scale&auto=format" width="1000">
 
