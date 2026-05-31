@@ -1,4 +1,4 @@
-<div align="center"><h1>EXTENSION HỖ TRỢ STEAM</h1></div>
+<div align="center"><h1><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="25"> EXTENSION HỖ TRỢ STEAM</h1></div>
 <p align="center">
   <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/753/header.jpg" width="500">
 </p>
