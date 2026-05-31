@@ -1,5 +1,5 @@
 <div align="center">
-<h1>KẾT BẠN KHI NICK STEAM BỊ GIỚI HẠN</h1>
+<h1><h1><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="25"> KẾT BẠN KHI NICK STEAM BỊ GIỚI HẠN</h1>
 </div>
 
 > (LEVEL 0/CHƯA NẠP CODE WALLET ĐỦ 5$)
