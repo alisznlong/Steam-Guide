@@ -15,9 +15,9 @@
 > - Nguồn hàng bị giới hạn, không thể lựa chọn thoải mái
 > - Giá đắt so với các phương thức khác
 ## 2. Mua qua Chợ dời CS (nâng cao)
-* Group
-> - VN-CS:GO Chợ dời (đang tạm dừng): https://www.facebook.com/groups/vncsgocd
-> - VN-CS2 Chợ dời: https://www.facebook.com/groups/vncs2cd
+* Group facebook
+> - VN-CS:GO Chợ dời: https://www.facebook.com/groups/vncsgocd
+> - VN-CS2 Chợ dời (đang tạm dừng): https://www.facebook.com/groups/vncs2cd
 * Thuật ngữ
 > - Rút site: Rút skin từ các sàn thứ 3 như Buff, Youpin,... Bạn chọn skin cần mua trên sàn và trader sẽ đứng ra thanh toán ngoại tệ hộ.
 > - Rate 3.6/3.7/3.x/4.x: Rate của các site Trung Quốc (tệ ¥). Giá tệ nhân với rate sẽ ra giá VNĐ chuẩn.
