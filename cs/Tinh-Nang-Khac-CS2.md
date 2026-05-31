@@ -15,7 +15,9 @@
 
 - Pin thì có thể trao đổi được và mang giá trị kinh tế, còn Coin và Genuine Pin chỉ mang giá trị trang trí và sưu tầm, hoàn toàn không thể trao đổi
 > Genuine Pin khác Pin ở chỗ là nó là nó chỉ có thể dùng code để nhận, hiện Valve đã ngừng bán code Pin và cách duy nhất để kiếm là mua trên các web thứ 3 và giá cũng rất đắt tiền
-<img src="https://i.ytimg.com/vi/SAVWN0vrUSk/sddefault.jpg" width="500">
+<p align="center">
+  <img src="https://i.ytimg.com/vi/SAVWN0vrUSk/sddefault.jpg" width="500">
+</p>
 
 ## 3. Weekly drop
 <img src="https://images.ctfassets.net/nua5jmq7o9f6/4psgDRCMDrz9np3DbmATWg/571fa9bc55cdfc35c33baeb5d5705118/Weekly_Care_Package.png" width="1000">
