@@ -78,7 +78,7 @@
 - Cần thắng 10 trận TBD (trận khởi đầu tính hạng) để hiện rank
 - Tương tự gồm các mức rank từ Silver 1 - Global Elite
 - Bản đồ của các map Competitive truyền thống được thu nhỏ lại chỉ có 1 bombsite hoặc các bản đồ nhỏ chỉ phục vụ Wingman
-### Faceit ([faceit.com](https://faceit.com))
+<h3><img src="https://docs.faceit.com/img/logo.jpg" width="20"> <a href="https://faceit.com/">Faceit</a></h3>
 - Lưu ý:
 > - Faceit sử dụng Kernel Anti-Cheat nên không thể cài ngoài net. Nếu chơi ngoài net cần chủ quán cài sẵn và update thường xuyên
 > - Faceit là nền tảng cạnh tranh khắc nghiệt hơn Premier và Competitive nên khuyến nghị elo Premier khoảng từ 15000 trở lên trước khi tham gia trải nghiệm
