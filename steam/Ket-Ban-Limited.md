@@ -1,4 +1,7 @@
-# KẾT BẠN KHI NICK STEAM BỊ GIỚI HẠN
+<div align="center">
+<h1>KẾT BẠN KHI NICK STEAM BỊ GIỚI HẠN</h1>
+</div>
+
 > (LEVEL 0/CHƯA NẠP CODE WALLET ĐỦ 5$)
 
 - Truy cập đường link: https://steamcommunity.com/my/friends/add
