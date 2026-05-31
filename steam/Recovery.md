@@ -1,4 +1,6 @@
-# KHÔI PHỤC TÀI KHOẢN STEAM
+<div align="center">
+<h1>KHÔI PHỤC TÀI KHOẢN STEAM</h1>
+</div>
 
 - LƯU Ý
 > - Quá trình xử lí có thể mất từ 12 tiếng - 2 ngày tùy mức độ phức tạp của ticket
