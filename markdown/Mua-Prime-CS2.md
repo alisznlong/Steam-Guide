@@ -34,15 +34,20 @@ Có thể lấy thông tin thẻ đã nạp để làm bằng chứng xác nhậ
 > - https://www.facebook.com/groups/448422310914067/user/UID
 > - Hoặc
 > - https://www.facebook.com/groups/1063177024092762/user/UID
-1. Mua code có sẵn
-⋅⋅⋅⋅* Ưu điểm:
+### 1. Mua code có sẵn
+* Ưu điểm:
 > - Tương tự mua code qua các shop bán lẻ
-⋅⋅⋅⋅*Nhược điểm:
+* Nhược điểm:
 > - Người chưa có kinh nghiệm mua trong Chợ dời dễ bị các đối tượng lừa đảo tiếp cận
 > - Tốc độ xử lí sẽ chậm hơn với 2 hình thức kia do phải đợi trader phản hồi tin nhắn
-* Nạp chậm
-- Ưu điểm
+### 2. Nạp chậm
+* Ưu điểm
 > - Rẻ hơn so với các hình thức còn lại nếu nạp mệnh giá to, trừ tiền triệu trở lên
 * Nhược điểm
 > - Phải gửi tài khoản Steam cho trader nạp
 > - Thời gian nạp lâu, có thể kéo dài khoảng một đến vài ngày
+<hr>
+
+# MUA PRIME
+Sau khi nạp wallet và xác nhận ví wallet có số dư ≥ 395.000 VND, truy cập [link](https://store.steampowered.com/sub/54029) và bấm mua Prime Status Upgrade (395.000 VND). Sau khi mua thành công, mở game sẽ có Prime.
+
