@@ -1,4 +1,4 @@
-<div align="center"><h1>GUIDE TỔNG HỢP CỦA BERRY</h1>
+<div align="center"><h1>GUIDE TỔNG HỢP CỦA BERRY</h1></div>
 
 ## CS
 - [Prime](https://github.com/alisznlong/Steam-Guide/blob/main/cs/Mua-Prime-CS2.md)
