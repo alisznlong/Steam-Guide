@@ -1,9 +1,21 @@
-# CÁC HÌNH THỨC MUA PRIME CS2
-> Hình thức nạp wallet Steam cũng tương tự
+<div align="center">
+<h1>QUYỀN LỢI CỦA PRIME</h1>
+</div>
 <p align="center">
   <img src="https://vnpt-s3.gdata.com.vn/g4market-bucket/g4market-bucket/IMAGE_PRODUCT/image_IMAGE_PRODUCT_1732951757390_15p0hw.png" width="650">
 </p>
 
+- Người chơi có thể lên cấp để mở khóa coin Service Medal
+- Có thể nhận được drop hằng tuần khi lên cấp
+- Có thể thi đấu chế độ Premier và hiện rank
+- Giảm bớt tình trạng bị bot quấy phá khi chơi
+
+<hr>
+<div align="center">
+<h1>HÌNH THỨC MUA PRIME CS2</h1>
+</div>
+
+> Hình thức nạp wallet Steam cũng tương tự
 ## 1. Tự nạp qua thẻ Visa/Mastercard
 * Ưu điểm:
 > - Tự thanh toán, giảm bớt đa số rủi ro.
