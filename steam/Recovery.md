@@ -1,5 +1,5 @@
 <div align="center">
-<h1>KHÔI PHỤC TÀI KHOẢN STEAM</h1>
+<h1><h1><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="25"> KHÔI PHỤC TÀI KHOẢN STEAM</h1>
 </div>
 
 - LƯU Ý
