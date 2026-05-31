@@ -1,4 +1,6 @@
-# CÁC HÌNH THỨC MUA SKIN CS2
+<div align="center">
+<h1>HÌNH THỨC MUA SKIN CS2</h1>
+</div>
 
 * LƯU Ý: 
 > - Mình không nhận hoa hồng, lợi ích, chia sẻ lợi nhuận qua việc giới thiệu các kênh bán skin CS. Đây hoàn toàn là kiến thức hỗ trợ cho người mới.
