@@ -1,4 +1,7 @@
-# CHẾ ĐỘ CHƠI TRONG CS2
+<div align="center">
+<h1>CHẾ ĐỘ CHƠI TRONG CS2</h1>
+</div>
+
 * LƯU Ý:
 > Để đảm bảo được tham gia chế độ đấu hạng và được tính rank trong CS2, người chơi cần có Prime
 ## 1. Rank/Đấu hạng
