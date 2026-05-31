@@ -1,5 +1,9 @@
 # CÁC HÌNH THỨC MUA PRIME CS2
 > Hình thức nạp wallet Steam cũng tương tự
+<p align="center">
+  <img src="https://vnpt-s3.gdata.com.vn/g4market-bucket/g4market-bucket/IMAGE_PRODUCT/image_IMAGE_PRODUCT_1732951757390_15p0hw.png" width="650">
+</p>
+
 ## 1. Tự nạp qua thẻ Visa/Mastercard
 * Ưu điểm:
 > - Tự thanh toán, giảm bớt đa số rủi ro.
