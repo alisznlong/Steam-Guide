@@ -1,5 +1,5 @@
 <div align="center">
-<h1>HÌNH THỨC MUA SKIN CS2</h1>
+<h1><img src="https://static.wikia.nocookie.net/logopedia/images/4/49/Counter-Strike_2_%28Icon%29.png/revision/latest?cb=20230330015359" width="25"> HÌNH THỨC MUA SKIN CS2</h1>
 </div>
 
 * LƯU Ý: 
