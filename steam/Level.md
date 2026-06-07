@@ -42,4 +42,6 @@ Sau khi hoàn thành các nhiệm vụ dưới đây sẽ nhận tổng cộng 5
 - Nguồn mua có thể từ Steam market hoặc qua trader chuyên bán
 - Một set trading card rẻ nhất ~10000đ Steam market hoặc khoảng 7000đ - 7500đ khi mua thằng qua trader
 ### Giới thiệu
-> Bình Lê (7500đ/set): facebook.com/100023950952764
+- Poca Chu Che (bán card + thiết kế trang trí profile Steam): https://facebook.com/100005588533631
+- Nguyễn Tuấn Kiệt (bán card + code game Steam random): https://facebook.com/100020477807351
+- Bình Lê (bán card + key TF2 + code wallet): https://facebook.com/100023950952764
