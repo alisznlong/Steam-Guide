@@ -2,12 +2,20 @@
 
 <h2><img src="https://static.wikia.nocookie.net/logopedia/images/4/49/Counter-Strike_2_%28Icon%29.png/revision/latest?cb=20230330015359" width="20"> CS</h2>
 
-- [Prime](https://github.com/alisznlong/Steam-Guide/blob/main/cs/Mua-Prime-CS2.md)
-- [Chế độ chơi](https://github.com/alisznlong/Steam-Guide/blob/main/cs/Che-Do-Choi-CS2.md)
-- [Mua](https://github.com/alisznlong/Steam-Guide/blob/main/cs/Mua-Skin-CS2.md) và [Bán](https://github.com/alisznlong/Steam-Guide/blob/main/cs/Ban-Skin-CS2.md) skin CS2 cho người mới
-- [Tính năng khác](https://github.com/alisznlong/Steam-Guide/blob/main/cs/Tinh-Nang-Khac-CS2.md)
-- [Trust Factor](https://github.com/alisznlong/Steam-Guide/blob/main/cs/Trust-Factor.md)
-- [Các map training](https://github.com/alisznlong/Steam-Guide/blob/main/cs/CS2-Map.md)
+- [PRIME CS2: KHÁI NIỆM VÀ CÁCH THỨC MUA PRIME](https://github.com/alisznlong/Steam-Guide/blob/main/cs/Mua-Prime-CS2.md)
+
+1. First ordered list item
+2. Another item
+⋅⋅⋅⋅* Unordered sub-list. 
+1. Actual numbers don't matter, just that it's a number
+⋅⋅⋅⋅1. Ordered sub-list
+4. And another item.
+
+- [CHẾ ĐỘ CHƠI TRONG CS2](https://github.com/alisznlong/Steam-Guide/blob/main/cs/Che-Do-Choi-CS2.md)
+- PHƯƠNG THỨC [MUA](https://github.com/alisznlong/Steam-Guide/blob/main/cs/Mua-Skin-CS2.md) VÀ [BÁN](https://github.com/alisznlong/Steam-Guide/blob/main/cs/Ban-Skin-CS2.md) SKIN CS2 CHO NGƯỜI MỚI
+- [CÁC TÍNH NĂNG KHÁC TRONG CS2](https://github.com/alisznlong/Steam-Guide/blob/main/cs/Tinh-Nang-Khac-CS2.md)
+- [TRUST FACTOR](https://github.com/alisznlong/Steam-Guide/blob/main/cs/Trust-Factor.md)
+- [CÁC MAP TRAINING](https://github.com/alisznlong/Steam-Guide/blob/main/cs/CS2-Map.md)
 
 <h2><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="20"> STEAM</h2>
 
