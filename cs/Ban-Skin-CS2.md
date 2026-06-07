@@ -31,7 +31,7 @@
 > - Đăng bài check legit người bán ngay trong group trước khi mua.
 > - Không thực hiện giao dịch mua bán với các tài khoản nhắn tin riêng và không có trong group.
 > - Để kiểm tra người nhắn tin riêng có trong group chợ dời không, copy link profile Facebook và sử dụng các công cụ lấy UID Facebook trên mạng để lấy UID, dán UID vào đây
-> - https://www.facebook.com/groups/448422310914067/user/UID
+> - https://www.facebook.com/groups/1063177024092762/user/UID
 > - Hoặc
 > - https://www.facebook.com/groups/1063177024092762/user/UID
 > - Đa phần các trader lớn trong group đều có điểm hoạt động từ chục nghìn đến trăm nghìn trở lên, có thể bỏ qua check legit. Với các tài khoản có điểm hoạt động nhỏ hơn nên check legit. Với hình thức check legit, đăng bài lên chính chợ dời kèm link profile Facebook của người mua bán cần check.
