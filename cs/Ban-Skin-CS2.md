@@ -16,7 +16,7 @@
 #### Nhược điểm:
 - Giá không quá tối ưu
 ## 2. Bán qua Chợ dời CS (nâng cao)
-#### Group facebook
+#### Group Facebook
 - VN-CS:GO Chợ dời: https://www.facebook.com/groups/vncsgocd
 - VN-CS2 Chợ dời (đang tạm dừng): https://www.facebook.com/groups/vncs2cd
 #### Thuật ngữ
