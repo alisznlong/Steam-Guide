@@ -25,19 +25,19 @@
 - Rate 3.6/3.7/3.x/4.x: Rate của các site Trung Quốc (tệ ¥). Giá tệ nhân với rate sẽ ra giá VNĐ chuẩn.
 - Rate 0.65/0.7/0.8: Rate của Steam Community Market. Giá market nhân với rate sẽ ra giá VNĐ chuẩn.
 #### Giới thiệu
-- Nguyen Van Khang: facebook.com/100003218530817 | facebook.com/100067751752315
-- Phúc Búa: facebook.com/100003286684062
-- Khánh Nam Lê: facebook.com/100001530233547
-- Công Trí (chuyên rút site): facebook.com/100004402081273
-- Hồ Hải: facebook.com/100043177071001
+- Nguyen Van Khang: https://facebook.com/100003218530817 | https://facebook.com/100067751752315
+- Phúc Búa: https://facebook.com/100003286684062
+- Khánh Nam Lê: https://facebook.com/100001530233547
+- Công Trí (chuyên rút site): https://facebook.com/100004402081273
+- Hồ Hải: https://facebook.com/100043177071001
 #### Cảnh báo
 - Không truy cập group Chợ dời qua tìm kiếm Facebook hoặc Google do có rất nhiều group mạo danh lừa đảo.
 - Đăng bài check legit người bán ngay trong group trước khi mua.
 - Không thực hiện giao dịch mua bán với các tài khoản nhắn tin riêng và không có trong group.
 - Để kiểm tra người nhắn tin riêng có trong group chợ dời không, copy link profile Facebook và sử dụng các công cụ lấy UID Facebook trên mạng để lấy UID, dán UID vào đây
-- https://www.facebook.com/groups/1063177024092762/user/UID
-- Hoặc
-- https://www.facebook.com/groups/1063177024092762/user/UID
+> - https://www.facebook.com/groups/1063177024092762/user/UID
+> - hoặc
+> - https://www.facebook.com/groups/1063177024092762/user/UID
 - Đa phần các trader lớn trong group đều có điểm hoạt động từ chục nghìn đến trăm nghìn trở lên, có thể bỏ qua check legit. Với các tài khoản có điểm hoạt động nhỏ hơn nên check legit. Với hình thức check legit, đăng bài lên chính chợ dời kèm link profile Facebook của người mua bán cần check.
 #### Ưu điểm:
 - Giá rẻ hơn với việc mua qua web
