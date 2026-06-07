@@ -21,18 +21,18 @@
 - Ngoài cách trên, còn có thể sử dụng số lượng người chơi của danh sách Looking to play để đánh giá. Ví dụ nếu Looking to play có đủ 20 người chơi và đều có prỉme thì thường là bạn đang ở mức **Trust xanh** *(một vài trường hợp Trust xanh nhưng vẫn thấy khoảng vài người chơi non-prime)*, từ 19 - 13 là đang ở mức **Trust vàng** và từ 13 trở xuống là đang ở mức **Trust đỏ**. Tuy nhiên phương thức này chỉ áp dụng vào khung giờ cao điểm người chơi. Ví dụ như người chơi Trust xanh khi tìm vào buổi sáng sớm vẫn có thể ra cực ít người chơi trong danh sách Looking to play
 
 ## PHÒNG TRÁNH
-- Low trust thì có rất nhiều nguyên nhân, đa phần thì mọi người cứ vẽ ra thôi, còn đây là chính xác nhất
-> - Team kill: Team kill thì thỉnh thoảng bâng quơ cũng không sao, nhưng nếu bị đồng đội report có thể gây ảnh hưởng đến trust
-> - Toxic: Hạn chế chửi nhau hay gáy bẩn, cứ mute team bạn xong chơi game cho thoải mái
-> - Stack hack: Cái này là tối kị từ xưa, party với người chơi dùng hack cực kì dễ bị low trust dù người hack chỉ bị VAC Live hay ban vĩnh viễn. Trong trường hợp bị VAC Live thì những người party cùng cũng sẽ dính cooldown và không thể chơi game
-> - Về việc bị report hack thì ai bắn bay chẳng bị report, nên cái này nghe cũng thuyết âm mưu
+#### Low trust thì có rất nhiều nguyên nhân, đa phần thì mọi người cứ vẽ ra thôi, còn đây là chính xác nhất
+- Team kill: Team kill thì thỉnh thoảng bâng quơ cũng không sao, nhưng nếu bị đồng đội report có thể gây ảnh hưởng đến trust
+- Toxic: Hạn chế chửi nhau hay gáy bẩn, cứ mute team bạn xong chơi game cho thoải mái
+- Stack hack: Cái này là tối kị từ xưa, party với người chơi dùng hack cực kì dễ bị low trust dù người hack chỉ bị VAC Live hay ban vĩnh viễn. Trong trường hợp bị VAC Live thì những người party cùng cũng sẽ dính cooldown và không thể chơi game
+- Về việc bị report hack thì ai bắn bay chẳng bị report, nên cái này nghe cũng thuyết âm mưu
 
 ## CẢI THIỆN:
-- Hiện tại có rất nhiều hướng dẫn trên mạng về việc cải thiện Trust xanh nhưng đa số đều là thuyết âm mưu và không có căn cứ
-- Ví dụ như:
-> - Xin commend: Mình đã tự sử dụng các dịch vụ boost commend và xác nhận rằng nó **không có hiệu quả**
-> - Nạp tiền mở hòm: Một số người bảo có nhưng cũng rất nhiều người bảo không được
-> - Để tài khoản Steam công khai, cài Steam guard, đăng screenshot lên trang cá nhân,...: **Không liên quan và không có tác dụng**
-> - Mua đồ xịn (ví dụ như dao găng): Chưa được xác thực
-> - Tiêu 400$ trên Steam store (mua game, mua chìa mở hòm, mua pass): Chưa được xác thực nhưng vẫn là thuyết phổ biến, được chia sẻ bởi một số người chơi rage hack
-- Kinh nghiệm cá nhân của mình là cứ chơi game liên tục thôi, hạn chế chat all để tránh việc bị report này kia, đồng thời cũng hạn chế toxic và team kill hay abandon. Mình bị low trust và chơi liên tục một cách lành mạnh thì khoảng hơn 1 tuần đã tự hết low, đấy là trải nghiệm cá nhân của mình và mình cũng không khuyến khích mọi người sử dụng bất kì hình thức nào liên quand dến việc phải bỏ ra tiền để cải thiện Trust factor
+#### Hiện tại có rất nhiều hướng dẫn trên mạng về việc cải thiện Trust xanh nhưng đa số đều là thuyết âm mưu và không có căn cứ
+#### Ví dụ như:
+- Xin commend: Mình đã tự sử dụng các dịch vụ boost commend và xác nhận rằng nó **không có hiệu quả**
+- Nạp tiền mở hòm: Một số người bảo có nhưng cũng rất nhiều người bảo không được
+- Để tài khoản Steam công khai, cài Steam guard, đăng screenshot lên trang cá nhân,...: **Không liên quan và không có tác dụng**
+- Mua đồ xịn (ví dụ như dao găng): Chưa được xác thực
+- Tiêu 400$ trên Steam store (mua game, mua chìa mở hòm, mua pass): Chưa được xác thực nhưng vẫn là thuyết phổ biến, được chia sẻ bởi một số người chơi rage hack
+#### Kinh nghiệm cá nhân của mình là cứ chơi game liên tục thôi, hạn chế chat all để tránh việc bị report này kia, đồng thời cũng hạn chế toxic và team kill hay abandon. Mình bị low trust và chơi liên tục một cách lành mạnh thì khoảng hơn 1 tuần đã tự hết low, đấy là trải nghiệm cá nhân của mình và mình cũng không khuyến khích mọi người sử dụng bất kì hình thức nào liên quand dến việc phải bỏ ra tiền để cải thiện Trust factor
