@@ -4,7 +4,7 @@
 
 #### LƯU Ý: 
 > - Mình không nhận hoa hồng, lợi ích, chia sẻ lợi nhuận qua việc giới thiệu các kênh bán skin CS. Đây hoàn toàn là kiến thức hỗ trợ cho người mới.
-> - Các kênh thu mua skin cũng tương tự như bán skin ở MUA SKIN CS2
+> - Các kênh thu mua skin cũng tương tự như bán skin ở [MUA SKIN CS2](https://github.com/alisznlong/Steam-Guide/blob/main/cs/Mua-Skin-CS2.md)
 
 ## 1. Web thu mua
 #### Shop giới thiệu:
