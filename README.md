@@ -12,6 +12,6 @@
 <h2><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="20"> STEAM</h2>
 
 - [KẾT BẠN KHI NICK STEAM BỊ GIỚI HẠN](https://github.com/alisznlong/Steam-Guide/blob/main/steam/Ket-Ban-Limited.md) (Chưa nạp 5$)
-- [CẤP ĐỘ](https://github.com/alisznlong/Steam-Guide/blob/main/steam/Level.md)
+- [TĂNG LEVEL PROFILE STEAM](https://github.com/alisznlong/Steam-Guide/blob/main/steam/Level.md)
 - [KHÔI PHỤC TÀI KHOẢN BỊ HACK/MẤT](https://github.com/alisznlong/Steam-Guide/blob/main/steam/Recovery.md)
 - [EXTENSION HỖ TRỢ CHO STEAM](https://github.com/alisznlong/Steam-Guide/blob/main/steam/Extension.md)
