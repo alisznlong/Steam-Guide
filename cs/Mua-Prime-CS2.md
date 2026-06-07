@@ -25,7 +25,7 @@ Có thể lấy thông tin thẻ đã nạp để làm bằng chứng xác nhậ
 #### Nhược điểm:
 - Đắt hơn so với hình thức nạp chậm qua trader (gần như không đáng kể trừ khi nạp mệnh giá to từ triệu trở lên).
 ## 2. Mua code qua các shop bán lẻ
-* Shop giới thiệu: 
+#### Shop giới thiệu: 
 - [muakey.com](https://muakey.com)
 - [cheapgame.asia](https://cheapgame.asia)
 - [divineshop.vn](https://divineshop.vn)
@@ -35,22 +35,22 @@ Có thể lấy thông tin thẻ đã nạp để làm bằng chứng xác nhậ
 - Phương thức dễ sử dụng nhất với người mới.
 #### Nhược điểm:
 > Đắt hơn so với các hình thức còn lại.
-* Lưu ý:
+#### Lưu ý:
 - Nếu mua code không phải VND, hãy tính giá ngoại tệ để đảm bảo code nạp ≥ 395.000 VND.
 - Nếu chưa đủ tuổi mở tài khoản ngân hàng, hãy nhờ người lớn chuyển khoản hộ. Không sử dụng hình thức gạch thẻ (đổi thẻ cào điện thoại sang tiền) do phí gạch thẻ rất lớn.
 - Chỉ được mua các code thuộc các nước Đông Nam Á (Việt Nam, Thái Lan, Indonesia, Malaysia, Philippines, Singapore) + Đài Loan. Không mua các các code Hồng Kông, Mỹ, Châu Âu, Canada,....
 ## 3. Mua qua trader (nâng cao)
-### Group facebook:
+### Group Facebook:
 - VN-CS:GO Chợ dời: https://www.facebook.com/groups/vncsgocd
 - VN-CS2 Chợ dời (đang tạm dừng): https://www.facebook.com/groups/vncs2cd
-* Cảnh báo
+#### Cảnh báo
 - Không truy cập group Chợ dời qua tìm kiếm Facebook hoặc Google do có rất nhiều group mạo danh lừa đảo.
 - Đăng bài check legit người bán ngay trong group trước khi mua.
 - Không thực hiện giao dịch mua bán với các tài khoản nhắn tin riêng và không có trong group.
 - Để kiểm tra người nhắn tin riêng có trong group chợ dời không, copy link profile Facebook và sử dụng các công cụ lấy UID Facebook trên mạng để lấy UID, dán UID vào đây
-- https://www.facebook.com/groups/1063177024092762/user/UID
-- Hoặc
-- https://www.facebook.com/groups/1063177024092762/user/UID
+> - https://www.facebook.com/groups/1063177024092762/user/UID
+> - hoặc
+> - https://www.facebook.com/groups/1063177024092762/user/UID
 ### Mua code có sẵn
 #### Ưu điểm:
 - Tương tự mua code qua các shop bán lẻ
@@ -64,16 +64,16 @@ Có thể lấy thông tin thẻ đã nạp để làm bằng chứng xác nhậ
 > - Cá nhân mình giới thiệu [Bình Lê](https://www.facebook.com/groups/1063177024092762/user/100023950952764) - https://facebook.com/100023950952764 (mọi người có thể tự lấy link facebook để đăng bài check legit trong Chợ dời)
 > - Đảm bảo rằng tài khoản đã bật Steam Guard Mobile Authenticator đủ 15 ngày vì sẽ cần sử dụng tính năng Community Market
 ### VỚI TÀI KHOẢN ĐÃ MỞ MARKET
-- Mua 7 key TF2. Giá key tại thời điểm mình đăng guide ([08/06/26](https://www.facebook.com/groups/vncsgocd/posts/2466546143755836)) là 44000đ/key => 44000 * 7 = 308000đ.
-- Sau khi mua key thì anh em tự bán key lên Steam Community Market với giá 645000đ là dễ đẩy nhất, thu về 56000đ/key sau thuế. Với 7 key thì ta có: 56000 * 7 = 392000đ trong wallet gần tròn giá Prime (thiếu 3k thì anh em chắc là còn dư trong wallet rồi :D)
+- Mua 7 key TF2. Giá key tại thời điểm mình đăng guide ([08/06/26](https://www.facebook.com/groups/vncsgocd/posts/2466546143755836)) là 44000đ/key => 44000 #### 7 = 308000đ.
+- Sau khi mua key thì anh em tự bán key lên Steam Community Market với giá 645000đ là dễ đẩy nhất, thu về 56000đ/key sau thuế. Với 7 key thì ta có: 56000 #### 7 = 392000đ trong wallet gần tròn giá Prime (thiếu 3k thì anh em chắc là còn dư trong wallet rồi :D)
 - Cách này sẽ tốn 308000đ nếu anh em mua 7 key và còn dư 3000đ trong wallet sẵn để bù mua Prime, còn nếu anh em không đủ 3000đ dư trong wallet thì có thể mua thêm 1 key nữa hoặc mua skin giá trị nhỏ khoảng 5000đ để đẩy lên market bù
 ### VỚI TÀI KHOẢN CHƯA MỞ MARKET
 > Cách này sẽ mất 30 ngày để chờ mở khóa tính năng Community Market, thời gian tính từ lúc nạp code wallet 5$/132000đ
 - Mua code wallet 132000đ Steam để mở market. [muakey.com](https://muakey.com/products/steam-wallet-card-vietnam) (152000đ) - [Bình Lê](https://www.facebook.com/groups/1063177024092762/user/100023950952764) (139000đ)
 - Sau khi mua code wallet, anh em tự kích hoạt code qua client Steam hoặc qua [đây](https://store.steampowered.com/account/redeemwalletcode)
 - Sau khi kích hoạt code wallet, chờ 30 ngày để mở khóa tính năng Community Market
-- Mua 5 key TF2: 44000 * 5 = 220000đ
-- Sau khi mua key thì anh em tự bán key lên Steam Community Market. Với 5 key sau khi bán lên market thì ta có trong wallet là: 56000 * 5 = 280000đ + 132000đ wallet có sẵn = 412000đ wallet, dư mua Prime
+- Mua 5 key TF2: 44000 #### 5 = 220000đ
+- Sau khi mua key thì anh em tự bán key lên Steam Community Market. Với 5 key sau khi bán lên market thì ta có trong wallet là: 56000 #### 5 = 280000đ + 132000đ wallet có sẵn = 412000đ wallet, dư mua Prime
 - Cách này sẽ tốn khoảng 220000 (5 key) + 139000 (code wallet Bình Lê) = 359000đ
 
 # MUA PRIME
