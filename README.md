@@ -1,4 +1,6 @@
-<div align="center"><h1>GUIDE TỔNG HỢP CỦA BERRY</h1></div>
+<div align="center">
+<img src="https://raw.githubusercontent.com/alisznlong/Steam-Guide/refs/heads/main/img/avatar.png" width="200">
+<h1>GUIDE TỔNG HỢP CỦA BERRY</h1></div>
 
 <h2><img src="https://static.wikia.nocookie.net/logopedia/images/4/49/Counter-Strike_2_%28Icon%29.png/revision/latest?cb=20230330015359" width="20"> CS</h2>
 
