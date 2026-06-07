@@ -15,3 +15,4 @@
 - [TĂNG LEVEL PROFILE STEAM](https://github.com/alisznlong/Steam-Guide/blob/main/steam/Level.md)
 - [KHÔI PHỤC TÀI KHOẢN BỊ HACK/MẤT](https://github.com/alisznlong/Steam-Guide/blob/main/steam/Recovery.md)
 - [EXTENSION HỖ TRỢ CHO STEAM](https://github.com/alisznlong/Steam-Guide/blob/main/steam/Extension.md)
+- ❗[CÁC HÌNH THỨC LỪA ĐẢO TRÊN STEAM](https://github.com/alisznlong/Steam-Guide/blob/main/steam/Scam.md)
