@@ -60,7 +60,7 @@ Có thể lấy thông tin thẻ đã nạp để làm bằng chứng xác nhậ
 <hr>
 
 ## MUA PRIME GIÁ RẺ
-> - Với cách này thì anh em có thể tiết kiệm được hơn so với các phương thức trên. Tuy nhiên tiết kiệm đến dâu còn tùy thuộc vào tài khoản Steam của anh em
+> - Với cách này thì anh em có thể tiết kiệm được hơn so với các phương thức trên. Tuy nhiên tiết kiệm đến đâu còn tùy thuộc vào tài khoản Steam của anh em
 > - Cá nhân mình giới thiệu [Bình Lê](https://www.facebook.com/groups/1063177024092762/user/100023950952764) - https://facebook.com/100023950952764 (mọi người có thể tự lấy link facebook để đăng bài check legit trong Chợ dời)
 > - Đảm bảo rằng tài khoản đã bật Steam Guard Mobile Authenticator đủ 15 ngày vì sẽ cần sử dụng tính năng Community Market
 ### VỚI TÀI KHOẢN ĐÃ MỞ MARKET
