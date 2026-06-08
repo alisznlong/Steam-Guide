@@ -5,8 +5,10 @@
   <img src="https://vnpt-s3.gdata.com.vn/g4market-bucket/g4market-bucket/IMAGE_PRODUCT/image_IMAGE_PRODUCT_1732951757390_15p0hw.png" width="650">
 </p>
 
+#### Mấy anh em cài phần mềm lậu trên mạng thường sẽ bị mấy anh hacker nước ngoài hỏi thăm. Trong trường hợp mấy anh hacker táy máy đến tài khoản Steam và xóa mất Prime thì anh em cứ làm theo hướng dẫn dưới đây để khôi phục lại là được
+
 ## 1. Truy cập đường link dưới đây
-  `[https://help.steampowered.com/en/wizard/HelpWithGame/?appid=730](https://help.steampowered.com/en/wizard/HelpWithGame/?appid=730)`
+  `https://help.steampowered.com/en/wizard/HelpWithGame/?appid=730`
 
 ## 2. Chọn "It's not in my library"
   <p align="center">
