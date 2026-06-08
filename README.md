@@ -14,6 +14,7 @@
 - [CÁC TÍNH NĂNG KHÁC TRONG CS2](https://github.com/alisznlong/Steam-Guide/blob/main/cs/Tinh-Nang-Khac-CS2.md)
 - [TRUST FACTOR](https://github.com/alisznlong/Steam-Guide/blob/main/cs/Trust-Factor.md)
 - [CÁC MAP TRAINING](https://github.com/alisznlong/Steam-Guide/blob/main/cs/CS2-Map.md)
+- KHÔI PHỤC LẠI PRIME BỊ XÓA SAU KHI TÀI KHOẢN BỊ ĐỘT NHẬP
 
 <h2><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="20"> STEAM</h2>
 
