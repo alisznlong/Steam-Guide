@@ -1,4 +1,4 @@
-<div align="center"><h1><h1><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="25"> CÁC HÌNH THỨC LỪA ĐẢO TRÊN STEAM</h1></div>
+<div align="center"><h1><h1><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="25"> CÁC HÌNH THỨC LỪA ĐẢO TRÊN STEAM/CHỢ DỜI CS</h1></div>
 <p align="center">
   <img src="https://read.cardtonic.com/wp-content/uploads/2023/06/How-to-Report-Steam-Gift-Card-Scams_-Protecting-Yourself-and-Others_.jpg" width="500">
 </p>
@@ -17,6 +17,21 @@
 <h4>❗Không tự ý go first khi giao dịch mua bán với người khác<br>
 ❗Khi giao dịch với các trader lớn, các tài khoản cá nhân tự khẳng định có uy tín và yêu cầu bạn go first, bạn có thể đăng bài check legit (kiểm tra uy tín) cá nhân đó lên Chợ dời CS trước khi giao dịch để đảm bảo giao dịch với đúng người, tránh gặp tài khoản mạo danh lừa đảo
 
+## Lừa đảo fake bill chuyển khoản
+- Các đối tượng lừa đảo khi mua bán sẽ gửi bill chuyển khoản fake để đánh lừa nạn nhân
+
+<h4>❗Luôn kiểm tra kĩ khi giao dịch, tuyệt đối không gửi đồ khi chưa nhận thông báo biến động số dư hay hiện trong lịch sử giao dịch của ngân hàng</h4>
+
+## Lừa đảo giao dịch Paypal
+- Các đối tượng lừa đảo tại nước ngoài thường sẽ dụ nạn nhân giao dịch qua Paypal do Paypal có thể thu hồi tiền đã chuyển đi
+
+<h4>❗Tuyệt đối không giao dịch bán skin khi người mua yêu cầu thanh toán qua Paypal</h4>
+
+## Lộ API Key _(lỗi thời)_
+- Nạn nhân bị dụ đăng nhập tài khoản Steam vào web lừa đảo hoặc đăng nhập Steam trên máy tính nhiễm malware/trojan có thể bị cài API Key lén
+- Qua API Key, bot có thể lấy thông tin giao dịch, có thể giả làm người nhận đồ để chiếm đoạt vật phẩm
+
+- Hiện nay Steam đã có **cơ chế bảo vệ người dùng**: API Key giờ sẽ cần xác nhận Steam Guard để thiết lập, đồng thời tài khoản vừa đổi tên sẽ bị cấm trade trong vòng 3 giờ để tránh việc bot fake người dùng
 ## Bot lừa đảo trên Steam
 - Nếu bạn có kho đồ giá trị lớn và để tài khoản ở trạng thái công khai thì bạn sẽ dễ bắt gặp các tài khoản bot đi lừa đảo
 - Các tài khoản này thường để quốc gia Châu Âu hoặc Mỹ và phần lớn là fake ảnh gái
