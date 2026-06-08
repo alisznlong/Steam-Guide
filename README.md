@@ -10,6 +10,7 @@
 - PHƯƠNG THỨC MUA BÁN SKIN CS2 CHO NGƯỜI MỚI
     - [MUA](https://github.com/alisznlong/Steam-Guide/blob/main/cs/Mua-Skin-CS2.md)
     - [BÁN](https://github.com/alisznlong/Steam-Guide/blob/main/cs/Ban-Skin-CS2.md)
+    - [KĨ NĂNG MUA BÁN CƠ BẢN TRÊN CHỢ DỜI](https://www.facebook.com/groups/vncsgocd/)
 - [CÁC TÍNH NĂNG KHÁC TRONG CS2](https://github.com/alisznlong/Steam-Guide/blob/main/cs/Tinh-Nang-Khac-CS2.md)
 - [TRUST FACTOR](https://github.com/alisznlong/Steam-Guide/blob/main/cs/Trust-Factor.md)
 - [CÁC MAP TRAINING](https://github.com/alisznlong/Steam-Guide/blob/main/cs/CS2-Map.md)
@@ -20,4 +21,4 @@
 - [TĂNG LEVEL PROFILE STEAM](https://github.com/alisznlong/Steam-Guide/blob/main/steam/Level.md)
 - [KHÔI PHỤC TÀI KHOẢN BỊ HACK/MẤT](https://github.com/alisznlong/Steam-Guide/blob/main/steam/Recovery.md)
 - [EXTENSION HỖ TRỢ CHO STEAM](https://github.com/alisznlong/Steam-Guide/blob/main/steam/Extension.md)
-- ❗[CÁC HÌNH THỨC LỪA ĐẢO TRÊN STEAM](https://github.com/alisznlong/Steam-Guide/blob/main/steam/Scam.md)
+- ❗[CÁC HÌNH THỨC LỪA ĐẢO TRÊN STEAM/CHỢ DỜI CS](https://github.com/alisznlong/Steam-Guide/blob/main/steam/Scam.md)
