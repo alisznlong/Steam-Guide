@@ -106,6 +106,14 @@
 <img src="https://clan.fastly.steamstatic.com/images//3381077/aae1ceb26e12464542579430a2436c8348461b5c.png" width="1000">
 
 - Chế độ giả lập tình huống chiếm site/thủ site nhanh
+### Rush
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1lFraHe6ceYdi0-RofH0jrsmG_5fr1PrEu28i4FaE29O5MNHXZk4dszY&s=10" width="1000">
+
+- Chế độ 3v3 dạng **King of the Hill**
+- Chế độ đưa người chơi đến các bản đồ nhỏ khác nhau. Tại một vị trí trên bản đồ sẽ có một trụ để chiếm, hai bên có thể tiêu diệt lẫn nhau hoặc thắng bằng cách giữ trụ hoặc "cướp cờ" cho đến giây cuối cùng.
+- Chế độ có 7 bản đồ nhỏ và 1 bản đồ phụ bí mật. Ở 7 bản đồ nhỏ này sẽ gồm 3 map CT thủ trụ, 3 map T thủ trụ và 1 map trung gian ban đầu.
+- Bắt đầu trận đấu tại bản đồ trung gian, đội thắng tại round bản đồ trung gian sẽ tiến công vào bản đồ phe đối phương đang thủ
+- Điều kiện thắng: Thắng bản đồ trung gian và 3 bản đồ thủ phe đối phương hoặc thắng 8 hiệp trước. Trong trường hợp 2 phe hòa 7-7, bản đồ phụ bí mật sẽ xuất hiện, bên thắng bản đồ phụ sẽ thắng toàn bộ trận đấu
 ## 3. Server ngoài
 Ngoài hệ thống server chính thức của game, CS2 còn có hệ thống server cộng đồng giúp tăng trải nghiệm với game. Người chơi có thể giải trí, giao lưu, tập luyện thoải mái hơn
 ### Giới thiệu
