@@ -114,8 +114,12 @@
 - Chế độ có 7 bản đồ nhỏ và 1 bản đồ phụ bí mật. Ở 7 bản đồ nhỏ này sẽ gồm 3 map CT thủ trụ, 3 map T thủ trụ và 1 map trung gian ban đầu.
 - Bắt đầu trận đấu tại bản đồ trung gian, đội thắng tại round bản đồ trung gian sẽ tiến công vào bản đồ phe đối phương đang thủ
 - Điều kiện thắng: Thắng bản đồ trung gian và 3 bản đồ thủ phe đối phương hoặc thắng 8 hiệp trước. Trong trường hợp 2 phe hòa 7-7, bản đồ phụ bí mật sẽ xuất hiện, bên thắng bản đồ phụ sẽ thắng toàn bộ trận đấu
-## 3. Server ngoài
-Ngoài hệ thống server chính thức của game, CS2 còn có hệ thống server cộng đồng giúp tăng trải nghiệm với game. Người chơi có thể giải trí, giao lưu, tập luyện thoải mái hơn
+## 3. Workshop
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOEqM7zSGiLLd7BxZs5pqFbYOe3cMt0M8zXq5DHE-AUoOU28nLOUGR-DvC&s=10" width="1000">
+
+Workshop là hệ thống bản đồ tùy chọn do cộng đồng người chơi CS2 trên Steam tự thiết kế và phát triển. Workshop giúp người chơi trải nghiệm các tính năng thú vị ngoài các tính năng có sẵn trong game.
+## 4. Server bên thứ 3 
+Ngoài hệ thống server chính thức của game, CS2 còn có hệ thống server cộng đồng giúp tăng trải nghiệm với game. Người chơi có thể giải trí, giao lưu, tập luyện thoải mái hơn. Server bên thứ 3 có nhiều chế độ chơi khác nhau ngoài các chế độ truyền thống như Zombie Escape, KZ/Bhop, Surf,...
 ### Giới thiệu
 - 7Màu: [7-mau.com](https://7-mau.com) - Hệ thống server giải trí CSGO/CS2 do cộng đồng Việt Nam vận hành và phát triển
 - WarmupServer: [WarmupServer.net](https://www.warmupserver.net/servers.php) - Hệ thống server warmup chuyên nghiệp
