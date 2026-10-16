@@ -4,9 +4,23 @@
 
 <h2><img src="https://static.wikia.nocookie.net/logopedia/images/4/49/Counter-Strike_2_%28Icon%29.png/revision/latest?cb=20230330015359" width="20"> CS</h2>
 
-- [PRIME CS2: QUYỀN LỢI VÀ CÁCH THỨC MUA PRIME](https://github.com/alisznlong/Steam-Guide/blob/main/cs/Mua-Prime-CS2.md)
+- [PRIME CS2](https://github.com/alisznlong/Steam-Guide/blob/main/cs/Mua-Prime-CS2.md)
+    - [QUYỀN LỢI CỦA PRIME](https://github.com/alisznlong/Steam-Guide/blob/main/cs/Mua-Prime-CS2.md#-quy%E1%BB%81n-l%E1%BB%A3i-c%E1%BB%A7a-prime)
     - [MUA PRIME GIÁ RẺ](https://github.com/alisznlong/Steam-Guide/blob/main/cs/Mua-Prime-CS2.md#mua-prime-gi%C3%A1-r%E1%BA%BB)
 - [CHẾ ĐỘ CHƠI TRONG CS2](https://github.com/alisznlong/Steam-Guide/blob/main/cs/Che-Do-Choi-CS2.md)
+    - ĐẤU HẠNG
+        - [PREMIER](https://github.com/alisznlong/Steam-Guide/blob/main/cs/Che-Do-Choi-CS2.md#premier)
+        - [COMPETITIVE](https://github.com/alisznlong/Steam-Guide/blob/main/cs/Che-Do-Choi-CS2.md#competitive)
+        - [WINGMAN](https://github.com/alisznlong/Steam-Guide/blob/main/cs/Che-Do-Choi-CS2.md#wingman)
+        - [FACEIT](https://github.com/alisznlong/Steam-Guide/blob/main/cs/Che-Do-Choi-CS2.md#wingman)
+    - GIẢI TRÍ
+        - [DEATHMATCH](https://github.com/alisznlong/Steam-Guide/blob/main/cs/Che-Do-Choi-CS2.md#deathmatch)
+        - [CASUAL](https://github.com/alisznlong/Steam-Guide/blob/main/cs/Che-Do-Choi-CS2.md#casual)
+        - [ARMS RACE](https://github.com/alisznlong/Steam-Guide/blob/main/cs/Che-Do-Choi-CS2.md#casual)
+        - [RETAKES](https://github.com/alisznlong/Steam-Guide/blob/main/cs/Che-Do-Choi-CS2.md#casual)
+        - [RUSH](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1lFraHe6ceYdi0-RofH0jrsmG_5fr1PrEu28i4FaE29O5MNHXZk4dszY&s=10)
+    - [WORKSHOP](https://github.com/alisznlong/Steam-Guide/blob/main/cs/Che-Do-Choi-CS2.md#3-workshop)
+    - [SERVER BÊN THỨ BA](https://github.com/alisznlong/Steam-Guide/blob/main/cs/Che-Do-Choi-CS2.md#3-workshop)
 - PHƯƠNG THỨC MUA BÁN SKIN CS2 CHO NGƯỜI MỚI
     - [MUA](https://github.com/alisznlong/Steam-Guide/blob/main/cs/Mua-Skin-CS2.md)
     - [BÁN](https://github.com/alisznlong/Steam-Guide/blob/main/cs/Ban-Skin-CS2.md)
