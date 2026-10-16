@@ -68,3 +68,13 @@
 - Người chơi có thể nhận sao bằng cách chơi game như bình thường. Sao có thể dùng để đổi các vật phẩm như hòm hoặc dùng để mở các collection (giống hình thức mở hòm) với giá 4 sao/lượt mở hoặc mở bộ sưu tập charm, sticker
 - Các collection và skin trong bộ Limited Edition của Armory pass đều mở bán trong khoảng thời gian giới hạn không cụ thể. Sau khi ngừng bán, không thể kiếm skin đã ngừng bán bằng bất kì hình thức nào nữa, chỉ có thể mua lại của người chơi khác đã có.
 - Đây không phải một hình thức cày cuốc để kiếm lời, không khuyến khích mọi người đầu tư
+
+## 9. Thú cưng
+<img src="https://cms.esportnow.gg/wp-content/uploads/2026/09/CS2-Chicken-Pet-Polish.jpg" width="1000">
+
+- Khi lên cấp hằng tuần, ngoài các vật phẩm như skin hay hòm/terminal, người chơi giờ có thể nhận được vật phẩm **Trứng** _(vật phẩm Trứng chiếm 2 slot nhận quà của tuần)_
+- Sau khi nhận trứng, sẽ cần một thời gian để trứng nở thành thú cưng gà con
+- Sau khi nhận trứng, người chơi khi lên cấp hằng tuần có thể nhận **Thức ăn cho gà** để cho gà con ăn
+- Gà con sau khi được cho ăn liên tục sẽ phát triển thành gà trưởng thành, gà trưởng thành có các giống gà và màu sắc khác nhau
+- Người chơi có thể sử dụng sổ tay lưu niệm để ghi lại khoảnh khắc thú cưng trưởng thành và đồng hành cùng mình
+- **LƯU Ý**: Thú cưng gà không thể giao dịch hay mua bán được. Nếu gà không được ăn trong 4 tuần liên tiếp thì gà sẽ chết
