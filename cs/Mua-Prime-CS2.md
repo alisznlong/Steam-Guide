@@ -9,7 +9,7 @@
 - Có thể nhận được drop hằng tuần khi lên cấp
 - Có thể thi đấu chế độ Premier và hiện rank
 - Giảm bớt tình trạng bị bot quấy phá khi chơi
-
+- Có thể chơi các nền tảng bên thứ 3 như Faceit _(các tài khoản đã đăng kí Faceit CS2 trước 2026 không cần Prime)_
 <hr>
 <div align="center">
 <h1><img src="https://static.wikia.nocookie.net/logopedia/images/4/49/Counter-Strike_2_%28Icon%29.png/revision/latest?cb=20230330015359" width="25"> HÌNH THỨC MUA PRIME CS2</h1>
