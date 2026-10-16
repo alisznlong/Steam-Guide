@@ -26,12 +26,12 @@ Với VAC Live và Global Cooldown, trong trường hợp ban nhầm do sai sót
 - Đối với người chơi sau khi bị Global cooldown **Minor disruptive** mà vẫn tiếp tục tái phạm dẫn đến việc bị cooldown lần nữa thì sẽ bị Global cooldown **vĩnh viễn**
 - Rất hiếm trường hợp bị Global cooldown do griefing. Hiện tại chưa ghi nhận trường hợp nào bị Global cooldown do griefing tại CS2
 
-### Overwatch ban
+### Overwatch ban/Game ban
 <div align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT3Ah604Ny9Z1PJ1LFhf7vfvAW8-wzDM6BnpGQalaIa_O8CvrM7Blbk3U&s=10" width="600">
 </div>
 
-- Đối với người chơi bị Global cooldown do Overwatch ban vì sử dụng hack cheat thì lệnh ban có thời hạn vĩnh viễn, sau một thời gian có thể chuyển thành VAC Ban trên profile Steam
+- Đối với người chơi bị Global cooldown do Overwatch ban/Game ban vì sử dụng hack cheat thì lệnh ban có thời hạn vĩnh viễn, sau một thời gian có thể chuyển thành VAC Ban trên profile Steam
 
 ### VACLive
 <div align="center">
